@@ -1,0 +1,5 @@
+.board {
+  width: 100%;
+  height: calc(100% - 40px);
+  background-color: #B5D5C5;
+}
